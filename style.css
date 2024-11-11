@@ -1,0 +1,15 @@
+.container {
+    background-color: rgba(16, 219, 219, 0.479); border: solid black 3px;
+    height: 300px;
+    width: 450px;
+    text-align: center;
+    margin: 50px auto;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button {
+    height: 50px;
+    width: 100px;
+    margin: 50px auto;
+    font-weight: bolder;
+}
